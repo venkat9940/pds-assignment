@@ -1,0 +1,15 @@
+|
+        |______ 1.1
+         ______data_clean
+			|______clean_frailty_data.csv
+		|______data_raw
+			|______raw_frailty_data.txt
+			|______raw_frailty_data1.csv
+			|______README.txt
+		|______results
+			|______results.txt
+			|______visualization_results.docx
+		|______src
+			|______loading_frailtydata. R
+			|______preprocessing_frailtydata. R
+			|______analysis. R
