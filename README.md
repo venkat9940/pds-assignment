@@ -2,7 +2,7 @@
 1) Based on the following table, design the three stages of reproducible workflow, includes the work you
 can do and the folder structure in each stage (reference study case in chapter 3). (5 points)
 
-[frailty.csv]()
+[frailty.csv](https://github.com/venkat9940/pds-assignment/blob/2605e6674c57c84c7fabe3112e5fe222280165f6/Q1/data_raw/frailty.csv)
 
 
 2) Perform 5 data visualization tasks on the student performance dataset given in the link below (create
